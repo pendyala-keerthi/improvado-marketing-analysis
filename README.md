@@ -17,3 +17,6 @@ at the row level.
 ## Dashboard
 Built in Looker Studio connected live to the PostgreSQL database.
 [https://lookerstudio.google.com/reporting/a6934d98-fda4-4b1e-94d0-a6a1fc9fa8f9]
+
+##Video Link
+[https://www.loom.com/share/72c22fa81cfe4a958e6b064d6b602a33]
